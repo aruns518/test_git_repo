@@ -1,4 +1,7 @@
 apple
 mango
 cherry
+lemon
+orange
+grapes
 
